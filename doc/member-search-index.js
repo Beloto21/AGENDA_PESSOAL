@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"com.exemplo.agenda.controller","c":"ContatoController","l":"ContatoController(ContatoView, ContatoModel)","u":"%3Cinit%3E(com.exemplo.agenda.view.ContatoView,com.exemplo.agenda.model.ContatoModel)"}];updateSearchResults();
