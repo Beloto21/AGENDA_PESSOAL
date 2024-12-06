@@ -10,7 +10,7 @@ import com.exemplo.agenda.controller.ContatoController;
 /**
 * Classe principal que inicializa a aplicação Agenda de Contatos.
 * Responsável por criar as instâncias dos componentes MVC e iniciar a interface.
-* @author Gabriel Alesiunas
+* @author Nicola Beloto
 * @version 1.0
  */
 public class AgendaContatos {
